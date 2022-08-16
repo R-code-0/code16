@@ -1,5 +1,5 @@
 public class Animal {
-    public void Method(){
+    public void method(){
         System.out.println("Unused");
     }
 }
